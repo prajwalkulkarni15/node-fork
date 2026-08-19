@@ -3,3 +3,5 @@ This is dummy txt file added for demonstration of point make changes in your cod
 new dummy text added into dummy.txt
 
 this is new line of the code added because of author suggestion.
+
+this is new line of code added because of demo of rebase system understanding.
